@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/pixincreate/PixeneOS/releases/download/2026020600/mustang-2026020600-magisk-v30.6-760a22b.zip",
+    "location_csig": "https://github.com/pixincreate/PixeneOS/releases/download/2026020600/mustang-2026020600-magisk-v30.6-760a22b.zip.csig"
+  }
+}
