@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/openSauce0451/PixeneOS/releases/download/2026080500/mustang-2026080500-magisk-v30.7-e3e378e.zip",
-    "location_csig": "https://github.com/openSauce0451/PixeneOS/releases/download/2026080500/mustang-2026080500-magisk-v30.7-e3e378e.zip.csig"
+    "location_ota": "https://github.com/pixincreate/PixeneOS/releases/download/2026081300/mustang-2026081300-magisk-v30.7-e3e378e.zip",
+    "location_csig": "https://github.com/pixincreate/PixeneOS/releases/download/2026081300/mustang-2026081300-magisk-v30.7-e3e378e.zip.csig"
   }
 }
