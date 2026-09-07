@@ -95,6 +95,9 @@ jobs:
           echo "DEVICE_NAME=${DEVICE_NAME}" >> $GITHUB_ENV
           echo "GRAPHENEOS_UPDATE_CHANNEL=${GRAPHENEOS[UPDATE_CHANNEL]}" >> $GITHUB_ENV
           echo "FORCE_UPDATE=${FORCE_UPDATE:-false}" >> $GITHUB_ENV
+          echo "ADDITIONALS_ROOT=${ADDITIONALS[ROOT]}" >> $GITHUB_ENV
+          echo "MAGISK_PREINIT=${MAGISK[PREINIT]}" >> $GITHUB_ENV
+          echo "GITHUB_USER=${GITHUB_USER}" >> $GITHUB_ENV
 
       - name: Set GrapheneOS version
         shell: bash
