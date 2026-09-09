@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "full": {
-    "location_ota": "https://github.com/openSauce0451/PixeneOS/releases/download/2026090700/mustang-2026090700-rootless-370caae.zip",
-    "location_csig": "https://github.com/openSauce0451/PixeneOS/releases/download/2026090700/mustang-2026090700-rootless-370caae.zip.csig"
-  }
-}
